@@ -1,0 +1,256 @@
+* {
+        box-sizing: border-box;
+    }
+
+    body {
+        font-family: 'Roboto', sans-serif;
+        font-size: 26px;
+        color: rgb(255, 255, 255);
+        background-size: 110%;
+        background-image: url("../imgs/bkg.png");
+
+        text-align: center;
+
+    }
+
+    h1 {
+        font-size: 4rem;
+        text-align: center;
+        margin-bottom: -6px;
+    }
+
+    svg {
+        width: 69.7%;
+        height: auto;
+    }
+
+    #stationMenu {
+        position: fixed;
+        top: 30px;
+        left: 30px;
+        width: 300px;
+        height: 60%;
+        background: #333333;
+        border: #ffee02 4px dotted;
+        color: #fff;
+    }
+
+
+    footer {
+        font-size: 1.5rem;
+        margin-top: 20px;
+    }
+
+    .cls-1 {
+        fill: #999;
+    }
+
+    .cls-1,
+    .cls-2,
+    .cls-3,
+    .cls-4,
+    .cls-5,
+    .cls-6,
+    .cls-7,
+    .cls-8,
+    .cls-9,
+    .cls-10,
+    .cls-11,
+    .cls-12,
+    .cls-13,
+    .cls-14 {
+        stroke-width: 0px;
+    }
+
+    .cls-15,
+    .cls-16,
+    .cls-17,
+    .cls-18,
+    .cls-19,
+    .cls-20,
+    .cls-21,
+    .cls-22,
+    .cls-23,
+    .cls-24,
+    .cls-25,
+    .cls-26,
+    .cls-27,
+    .cls-28,
+    .cls-29,
+    .cls-30,
+    .cls-31,
+    .cls-32,
+    .cls-33 {
+        stroke-miterlimit: 10;
+    }
+
+    .cls-15,
+    .cls-16,
+    .cls-17,
+    .cls-18,
+    .cls-19,
+    .cls-20,
+    .cls-21,
+    .cls-22,
+    .cls-23,
+    .cls-24,
+    .cls-25,
+    .cls-26,
+    .cls-28,
+    .cls-30,
+    .cls-31,
+    .cls-32,
+    .cls-33 {
+        stroke: #000;
+    }
+
+    .cls-15,
+    .cls-16,
+    .cls-21,
+    .cls-6,
+    .cls-23,
+    .cls-25 {
+        fill: none;
+    }
+
+    .cls-15,
+    .cls-27,
+    .cls-33 {
+        stroke-width: 4px;
+    }
+
+    .cls-2 {
+        fill: #666;
+    }
+
+    .cls-3 {
+        fill: #ff911a;
+    }
+
+    .cls-17,
+    .cls-19,
+    .cls-7 {
+        fill: gray;
+    }
+
+    .cls-17,
+    .cls-26 {
+        stroke-width: .75px;
+    }
+
+    .cls-4,
+    .cls-20 {
+        fill: #e6e6e6;
+    }
+
+    .cls-34 {
+        letter-spacing: .09em;
+    }
+
+    .cls-35 {
+        opacity: .39;
+    }
+
+    .cls-21 {
+        stroke-width: 6px;
+    }
+
+    .cls-22,
+    .cls-11,
+    .cls-28 {
+        fill: #fff;
+    }
+
+    .cls-22,
+    .cls-29 {
+        font-family: Aldrich, Aldrich;
+        font-size: 31.84px;
+        text-decoration: underline;
+    }
+
+    .cls-8 {
+        fill: #b3b3b3;
+    }
+
+    .cls-23 {
+        stroke-width: 3px;
+    }
+
+    .cls-36 {
+        opacity: .34;
+    }
+
+    .cls-9 {
+        fill: #ff781a;
+    }
+
+    .cls-10 {
+        fill: #ccc;
+    }
+
+    .cls-24,
+    .cls-25,
+    .cls-30,
+    .cls-32 {
+        stroke-width: 2px;
+    }
+
+    .cls-26 {
+        fill: red;
+    }
+
+    .cls-12 {
+        fill: #ff7;
+    }
+
+    .cls-27 {
+        fill: url(#Summer);
+        stroke: #fcee21;
+    }
+
+    .cls-37 {
+        letter-spacing: 0em;
+    }
+
+    .cls-38 {
+        opacity: .41;
+    }
+
+    .cls-29 {
+        stroke: #fff;
+    }
+
+    .cls-13 {
+        fill: #ffa51e;
+    }
+
+    .cls-39 {
+        letter-spacing: .08em;
+    }
+
+    .cls-30,
+    .cls-32 {
+        font-family: AES, AES;
+        font-size: 16px;
+    }
+
+    .cls-30,
+    .cls-40 {
+        letter-spacing: .07em;
+    }
+
+    .cls-14 {
+        fill: #ccbe69;
+    }
+
+    .cls-31 {
+        fill: #f2f2f2;
+    }
+
+    .cls-41 {
+        opacity: .37;
+    }
+
+    #on-an-off.down {
+        transform: translateY(102.2px);
+    }
